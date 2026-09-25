@@ -1,0 +1,685 @@
+id,area,dept_label,position,catalog_id,criticality,required_level
+1,SEC,Daxili Təhlükəsizlik Departamenti,Daxili təhlükəsizliyə nəzarət şöbəsinin müdiri,796,5,5
+2,SEC,Daxili Təhlükəsizlik Departamenti,Daxili təhlükəsizliyə nəzarət şöbəsinin müdiri,797,5,5
+3,SEC,Daxili Təhlükəsizlik Departamenti,Daxili təhlükəsizliyə nəzarət şöbəsinin müdiri,799,5,4
+4,SEC,Daxili Təhlükəsizlik Departamenti,Daxili təhlükəsizliyə nəzarət şöbəsinin müdiri,800,5,5
+5,SEC,Daxili Təhlükəsizlik Departamenti,Daxili təhlükəsizliyə nəzarət şöbəsinin müdiri,802,5,5
+6,SEC,Daxili Təhlükəsizlik Departamenti,Daxili təhlükəsizliyə nəzarət şöbəsinin müdiri,807,5,5
+7,SEC,Daxili Təhlükəsizlik Departamenti,Daxili təhlükəsizliyə nəzarət şöbəsinin müdiri,812,5,5
+8,SEC,Daxili Təhlükəsizlik Departamenti,Daxili təhlükəsizliyə nəzarət şöbəsinin müdiri,824,5,5
+9,SEC,Daxili Təhlükəsizlik Departamenti,Daxili təhlükəsizliyə nəzarət şöbəsinin müdiri,826,5,5
+10,SEC,Daxili Təhlükəsizlik Departamenti,Baş nəzarətçi,829,4,4
+11,SEC,Daxili Təhlükəsizlik Departamenti,Baş nəzarətçi,800,4,4
+12,SEC,Daxili Təhlükəsizlik Departamenti,Baş nəzarətçi,804,4,4
+13,SEC,Daxili Təhlükəsizlik Departamenti,Baş nəzarətçi,806,4,4
+14,SEC,Daxili Təhlükəsizlik Departamenti,Baş nəzarətçi,810,4,4
+15,SEC,Daxili Təhlükəsizlik Departamenti,Baş nəzarətçi,814,4,4
+16,SEC,Daxili Təhlükəsizlik Departamenti,Baş nəzarətçi,819,3,4
+17,SEC,Daxili Təhlükəsizlik Departamenti,Baş nəzarətçi,825,4,4
+18,SEC,Daxili Təhlükəsizlik Departamenti,Video nəzarət üzrə mütəxəssis,828,3,3
+19,SEC,Daxili Təhlükəsizlik Departamenti,Video nəzarət üzrə mütəxəssis,808,3,3
+20,SEC,Daxili Təhlükəsizlik Departamenti,Video nəzarət üzrə mütəxəssis,811,3,3
+21,SEC,Daxili Təhlükəsizlik Departamenti,Video nəzarət üzrə mütəxəssis,805,3,3
+22,SEC,Daxili Təhlükəsizlik Departamenti,Video nəzarət üzrə mütəxəssis,814,2,3
+23,SEC,Daxili Təhlükəsizlik Departamenti,Video nəzarət üzrə mütəxəssis,825,3,3
+24,SEC,Daxili Təhlükəsizlik Departamenti,Növbə rəisi,829,3,3
+25,SEC,Daxili Təhlükəsizlik Departamenti,Növbə rəisi,810,3,3
+26,SEC,Daxili Təhlükəsizlik Departamenti,Növbə rəisi,803,3,3
+27,SEC,Daxili Təhlükəsizlik Departamenti,Növbə rəisi,814,3,3
+28,SEC,Daxili Təhlükəsizlik Departamenti,Növbə rəisi,819,3,3
+29,SEC,Daxili Təhlükəsizlik Departamenti,Növbə rəisi,823,3,3
+30,SEC,Daxili Təhlükəsizlik Departamenti,Nəzarətçi,828,2,2
+31,SEC,Daxili Təhlükəsizlik Departamenti,Nəzarətçi,808,2,2
+32,SEC,Daxili Təhlükəsizlik Departamenti,Nəzarətçi,810,2,2
+33,SEC,Daxili Təhlükəsizlik Departamenti,Nəzarətçi,812,2,2
+34,SEC,Daxili Təhlükəsizlik Departamenti,Nəzarətçi,825,3,2
+35,ADM,İnzibati Şöbə,İnzibati şöbəsinin rəhbəri,675,5,5
+36,ADM,İnzibati Şöbə,İnzibati şöbəsinin rəhbəri,676,5,5
+37,ADM,İnzibati Şöbə,İnzibati şöbəsinin rəhbəri,678,5,5
+38,ADM,İnzibati Şöbə,Avtoparkın idarəedilməsi şöbəsinin müdiri,695,3,3
+39,ADM,İnzibati Şöbə,Avtoparkın idarəedilməsi şöbəsinin müdiri,700,3,3
+40,ADM,İnzibati Şöbə,Avtoparkın idarəedilməsi şöbəsinin müdiri,707,3,3
+41,ADM,İnzibati Şöbə,Avtoparkın idarəedilməsi şöbəsinin müdiri,731,3,3
+42,ADM,İnzibati Şöbə,Avtoparkın idarəedilməsi şöbəsinin müdiri,736,3,3
+43,ADM,İnzibati Şöbə,Baş mexanik,695,3,3
+44,ADM,İnzibati Şöbə,Baş mexanik,700,3,3
+45,ADM,İnzibati Şöbə,Baş mexanik,707,3,3
+46,ADM,İnzibati Şöbə,Baş mexanik,731,3,3
+47,ADM,İnzibati Şöbə,Baş mexanik,736,3,3
+48,ADM,İnzibati Şöbə,Təmir bölməsinin rəhbəri,695,3,3
+49,ADM,İnzibati Şöbə,Təmir bölməsinin rəhbəri,700,3,3
+50,ADM,İnzibati Şöbə,Təmir bölməsinin rəhbəri,707,3,3
+51,ADM,İnzibati Şöbə,Təmir bölməsinin rəhbəri,731,3,3
+52,ADM,İnzibati Şöbə,Təmir bölməsinin rəhbəri,736,3,3
+53,ADM,İnzibati Şöbə,Arxiv və sənəd dövriyyəsi üzrə mütəxəssis,695,3,3
+54,ADM,İnzibati Şöbə,Arxiv və sənəd dövriyyəsi üzrə mütəxəssis,700,3,3
+55,ADM,İnzibati Şöbə,Arxiv və sənəd dövriyyəsi üzrə mütəxəssis,707,3,3
+56,ADM,İnzibati Şöbə,Arxiv və sənəd dövriyyəsi üzrə mütəxəssis,731,3,3
+57,ADM,İnzibati Şöbə,Arxiv və sənəd dövriyyəsi üzrə mütəxəssis,736,3,3
+58,ADM,İnzibati Şöbə,Arxiv və sənəd dövriyyəsi üzrə qrup rəhbəri,695,3,3
+59,ADM,İnzibati Şöbə,Arxiv və sənəd dövriyyəsi üzrə qrup rəhbəri,700,3,3
+60,ADM,İnzibati Şöbə,Arxiv və sənəd dövriyyəsi üzrə qrup rəhbəri,707,3,3
+61,ADM,İnzibati Şöbə,Arxiv və sənəd dövriyyəsi üzrə qrup rəhbəri,731,3,3
+62,ADM,İnzibati Şöbə,Arxiv və sənəd dövriyyəsi üzrə qrup rəhbəri,736,3,3
+63,ADM,İnzibati Şöbə,Baş direktorun şəxsi köməkçisi,695,3,3
+64,ADM,İnzibati Şöbə,Baş direktorun şəxsi köməkçisi,700,3,3
+65,ADM,İnzibati Şöbə,Baş direktorun şəxsi köməkçisi,707,3,3
+66,ADM,İnzibati Şöbə,Baş direktorun şəxsi köməkçisi,731,3,3
+67,ADM,İnzibati Şöbə,Baş direktorun şəxsi köməkçisi,736,3,3
+68,ADM,İnzibati Şöbə,Təsərrüfat bölməsinin müdiri,695,3,3
+69,ADM,İnzibati Şöbə,Təsərrüfat bölməsinin müdiri,700,3,3
+70,ADM,İnzibati Şöbə,Təsərrüfat bölməsinin müdiri,707,3,3
+71,ADM,İnzibati Şöbə,Təsərrüfat bölməsinin müdiri,731,3,3
+72,ADM,İnzibati Şöbə,Təsərrüfat bölməsinin müdiri,736,3,3
+73,ADM,İnzibati Şöbə,Təsərrüfat işləri üzrə koordinator,695,3,3
+74,ADM,İnzibati Şöbə,Təsərrüfat işləri üzrə koordinator,700,3,3
+75,ADM,İnzibati Şöbə,Təsərrüfat işləri üzrə koordinator,707,3,3
+76,ADM,İnzibati Şöbə,Təsərrüfat işləri üzrə koordinator,731,3,3
+77,ADM,İnzibati Şöbə,Təsərrüfat işləri üzrə koordinator,736,3,3
+78,ADM,İnzibati Şöbə,İcraçı köməkçi,695,3,3
+79,ADM,İnzibati Şöbə,İcraçı köməkçi,700,3,3
+80,ADM,İnzibati Şöbə,İcraçı köməkçi,707,3,3
+81,ADM,İnzibati Şöbə,İcraçı köməkçi,731,3,3
+82,ADM,İnzibati Şöbə,İcraçı köməkçi,736,3,3
+83,ADM,İnzibati Şöbə,İnzibati şöbəsinin rəhbəri,695,3,3
+84,ADM,İnzibati Şöbə,İnzibati şöbəsinin rəhbəri,700,3,3
+85,ADM,İnzibati Şöbə,İnzibati şöbəsinin rəhbəri,707,3,3
+86,ADM,İnzibati Şöbə,İnzibati şöbəsinin rəhbəri,731,3,3
+87,ADM,İnzibati Şöbə,İnzibati şöbəsinin rəhbəri,736,3,3
+88,ADM,İnzibati Şöbə,Şəxsi köməkçi,695,3,3
+89,ADM,İnzibati Şöbə,Şəxsi köməkçi,700,3,3
+90,ADM,İnzibati Şöbə,Şəxsi köməkçi,707,3,3
+91,ADM,İnzibati Şöbə,Şəxsi köməkçi,731,3,3
+92,ADM,İnzibati Şöbə,Şəxsi köməkçi,736,3,3
+93,BA,Biznes Analitikası və Xidmət Keyfiyyətinə Nəzarət Şöbəsi,Biznes Analitikası və Xidmət Keyfiyyətinə Nəzarət şöbəsinin müdiri,144,5,5
+94,BA,Biznes Analitikası və Xidmət Keyfiyyətinə Nəzarət Şöbəsi,Biznes Analitikası və Xidmət Keyfiyyətinə Nəzarət şöbəsinin müdiri,147,5,5
+95,BA,Biznes Analitikası və Xidmət Keyfiyyətinə Nəzarət Şöbəsi,Biznes Analitikası və Xidmət Keyfiyyətinə Nəzarət şöbəsinin müdiri,148,4,5
+96,BA,Biznes Analitikası və Xidmət Keyfiyyətinə Nəzarət Şöbəsi,Biznes Analitikası və Xidmət Keyfiyyətinə Nəzarət şöbəsinin müdiri,156,4,5
+97,BA,Biznes Analitikası və Xidmət Keyfiyyətinə Nəzarət Şöbəsi,Biznes Analitikası və Xidmət Keyfiyyətinə Nəzarət şöbəsinin müdiri,173,4,5
+98,BA,Biznes Analitikası və Xidmət Keyfiyyətinə Nəzarət Şöbəsi,Biznes Analitikası və Xidmət Keyfiyyətinə Nəzarət şöbəsinin müdiri,184,4,5
+99,BA,Biznes Analitikası və Xidmət Keyfiyyətinə Nəzarət Şöbəsi,Biznes Analitikası və Xidmət Keyfiyyətinə Nəzarət şöbəsinin müdiri,194,5,5
+100,BA,Biznes Analitikası və Xidmət Keyfiyyətinə Nəzarət Şöbəsi,Biznes Analitikası və Xidmət Keyfiyyətinə Nəzarət şöbəsinin müdiri,199,5,5
+101,BA,Biznes Analitikası və Xidmət Keyfiyyətinə Nəzarət Şöbəsi,Biznes Analitikası və Xidmət Keyfiyyətinə Nəzarət şöbəsinin müdiri,207,4,5
+102,BA,Biznes Analitikası və Xidmət Keyfiyyətinə Nəzarət Şöbəsi,Biznes Analitikası üzrə qrup rəhbəri,159,4,4
+103,BA,Biznes Analitikası və Xidmət Keyfiyyətinə Nəzarət Şöbəsi,Biznes Analitikası üzrə qrup rəhbəri,166,4,4
+104,BA,Biznes Analitikası və Xidmət Keyfiyyətinə Nəzarət Şöbəsi,Biznes Analitikası üzrə qrup rəhbəri,185,4,4
+105,BA,Biznes Analitikası və Xidmət Keyfiyyətinə Nəzarət Şöbəsi,Biznes Analitikası üzrə qrup rəhbəri,191,4,4
+106,BA,Biznes Analitikası və Xidmət Keyfiyyətinə Nəzarət Şöbəsi,Biznes Analitikası üzrə qrup rəhbəri,195,4,4
+107,BA,Biznes Analitikası və Xidmət Keyfiyyətinə Nəzarət Şöbəsi,Biznes Analitikası üzrə qrup rəhbəri,200,4,4
+108,BA,Biznes Analitikası və Xidmət Keyfiyyətinə Nəzarət Şöbəsi,Biznes Analitikası üzrə qrup rəhbəri,204,3,4
+109,BA,Biznes Analitikası və Xidmət Keyfiyyətinə Nəzarət Şöbəsi,Satış üzrə aparıcı analitik,160,3,4
+110,BA,Biznes Analitikası və Xidmət Keyfiyyətinə Nəzarət Şöbəsi,Satış üzrə aparıcı analitik,169,3,4
+111,BA,Biznes Analitikası və Xidmət Keyfiyyətinə Nəzarət Şöbəsi,Satış üzrə aparıcı analitik,171,3,4
+112,BA,Biznes Analitikası və Xidmət Keyfiyyətinə Nəzarət Şöbəsi,Satış üzrə aparıcı analitik,186,3,4
+113,BA,Biznes Analitikası və Xidmət Keyfiyyətinə Nəzarət Şöbəsi,Satış üzrə aparıcı analitik,190,3,4
+114,BA,Biznes Analitikası və Xidmət Keyfiyyətinə Nəzarət Şöbəsi,Satış üzrə aparıcı analitik,201,3,4
+115,BA,Biznes Analitikası və Xidmət Keyfiyyətinə Nəzarət Şöbəsi,Satış üzrə aparıcı analitik,205,3,4
+116,BA,Biznes Analitikası və Xidmət Keyfiyyətinə Nəzarət Şöbəsi,Satış üzrə analitik,159,3,3
+117,BA,Biznes Analitikası və Xidmət Keyfiyyətinə Nəzarət Şöbəsi,Satış üzrə analitik,163,3,3
+118,BA,Biznes Analitikası və Xidmət Keyfiyyətinə Nəzarət Şöbəsi,Satış üzrə analitik,187,3,3
+119,BA,Biznes Analitikası və Xidmət Keyfiyyətinə Nəzarət Şöbəsi,Satış üzrə analitik,150,3,3
+120,BA,Biznes Analitikası və Xidmət Keyfiyyətinə Nəzarət Şöbəsi,Satış üzrə analitik,201,3,3
+121,BA,Biznes Analitikası və Xidmət Keyfiyyətinə Nəzarət Şöbəsi,Satış üzrə analitik,204,2,3
+122,BA,Biznes Analitikası və Xidmət Keyfiyyətinə Nəzarət Şöbəsi,Əməliyyatlar üzrə analitik,179,3,3
+123,BA,Biznes Analitikası və Xidmət Keyfiyyətinə Nəzarət Şöbəsi,Əməliyyatlar üzrə analitik,180,3,3
+124,BA,Biznes Analitikası və Xidmət Keyfiyyətinə Nəzarət Şöbəsi,Əməliyyatlar üzrə analitik,164,3,3
+125,BA,Biznes Analitikası və Xidmət Keyfiyyətinə Nəzarət Şöbəsi,Əməliyyatlar üzrə analitik,186,3,3
+126,BA,Biznes Analitikası və Xidmət Keyfiyyətinə Nəzarət Şöbəsi,Əməliyyatlar üzrə analitik,202,3,3
+127,BA,Biznes Analitikası və Xidmət Keyfiyyətinə Nəzarət Şöbəsi,Əməliyyatlar üzrə analitik,207,2,3
+128,BA,Biznes Analitikası və Xidmət Keyfiyyətinə Nəzarət Şöbəsi,Satış üzrə kiçik analitik,159,2,2
+129,BA,Biznes Analitikası və Xidmət Keyfiyyətinə Nəzarət Şöbəsi,Satış üzrə kiçik analitik,149,2,2
+130,BA,Biznes Analitikası və Xidmət Keyfiyyətinə Nəzarət Şöbəsi,Satış üzrə kiçik analitik,188,2,2
+131,BA,Biznes Analitikası və Xidmət Keyfiyyətinə Nəzarət Şöbəsi,Satış üzrə kiçik analitik,201,2,2
+132,BA,Biznes Analitikası və Xidmət Keyfiyyətinə Nəzarət Şöbəsi,Satış üzrə kiçik analitik,208,2,2
+133,ERP,ERP Şöbəsi,ERP şöbə rəhbəri,74,5,5
+134,ERP,ERP Şöbəsi,ERP şöbə rəhbəri,78,5,5
+135,ERP,ERP Şöbəsi,ERP şöbə rəhbəri,79,5,5
+136,ERP,ERP Şöbəsi,ERP şöbə rəhbəri,84,4,5
+137,ERP,ERP Şöbəsi,ERP şöbə rəhbəri,94,4,5
+138,ERP,ERP Şöbəsi,ERP şöbə rəhbəri,113,4,4
+139,ERP,ERP Şöbəsi,ERP şöbə rəhbəri,124,5,5
+140,ERP,ERP Şöbəsi,ERP şöbə rəhbəri,129,5,5
+141,ERP,ERP Şöbəsi,ERP şöbə rəhbəri,134,4,5
+142,ERP,ERP Şöbəsi,ERP şöbə rəhbəri,139,5,5
+143,ERP,ERP Şöbəsi,ERP şöbə rəhbəri,85,4,4
+144,ERP,ERP Şöbəsi,ERP şöbə rəhbəri,90,4,4
+145,ERP,ERP Şöbəsi,ERP şöbə rəhbəri,92,4,4
+146,ERP,ERP Şöbəsi,ERP şöbə rəhbəri,103,3,4
+147,ERP,ERP Şöbəsi,ERP şöbə rəhbəri,105,4,4
+148,ERP,ERP Şöbəsi,ERP şöbə rəhbəri,126,3,4
+149,ERP,ERP Şöbəsi,ERP şöbə rəhbəri,131,3,4
+150,ERP,ERP Şöbəsi,ERP əməliyyatları üzrə mütəxəssis,89,3,3
+151,ERP,ERP Şöbəsi,ERP əməliyyatları üzrə mütəxəssis,91,3,3
+152,ERP,ERP Şöbəsi,ERP əməliyyatları üzrə mütəxəssis,95,3,3
+153,ERP,ERP Şöbəsi,ERP əməliyyatları üzrə mütəxəssis,104,3,3
+154,ERP,ERP Şöbəsi,ERP əməliyyatları üzrə mütəxəssis,110,3,3
+155,ERP,ERP Şöbəsi,ERP əməliyyatları üzrə mütəxəssis,125,2,3
+156,ERP,ERP Şöbəsi,İT biznes analitik,80,4,4
+157,ERP,ERP Şöbəsi,İT biznes analitik,90,4,4
+158,ERP,ERP Şöbəsi,İT biznes analitik,99,3,4
+159,ERP,ERP Şöbəsi,İT biznes analitik,115,3,4
+160,ERP,ERP Şöbəsi,İT biznes analitik,124,4,4
+161,ERP,ERP Şöbəsi,İT biznes analitik,130,3,4
+162,ERP,ERP Şöbəsi,Proqramçı,119,3,4
+163,ERP,ERP Şöbəsi,Proqramçı,92,3,4
+164,ERP,ERP Şöbəsi,Proqramçı,111,4,4
+165,ERP,ERP Şöbəsi,Proqramçı,118,3,4
+166,ERP,ERP Şöbəsi,Proqramçı,141,3,4
+167,ERP,ERP Şöbəsi,SQL üzrə proqramçı,114,4,4
+168,ERP,ERP Şöbəsi,SQL üzrə proqramçı,96,3,4
+169,LEG,Hüquq Şöbəsi,Hüquq şöbəsinin rəhbəri,610,5,5
+170,LEG,Hüquq Şöbəsi,Hüquq şöbəsinin rəhbəri,612,5,5
+171,LEG,Hüquq Şöbəsi,Hüquq şöbəsinin rəhbəri,616,5,5
+172,LEG,Hüquq Şöbəsi,Hüquq şöbəsinin rəhbəri,620,5,5
+173,LEG,Hüquq Şöbəsi,Hüquq şöbəsinin rəhbəri,629,5,5
+174,LEG,Hüquq Şöbəsi,Hüquq şöbəsinin rəhbəri,642,4,5
+175,LEG,Hüquq Şöbəsi,Hüquq şöbəsinin rəhbəri,661,5,5
+176,LEG,Hüquq Şöbəsi,Hüquq şöbəsinin rəhbəri,665,4,5
+177,LEG,Hüquq Şöbəsi,Hüquq şöbəsinin rəhbəri,673,5,5
+178,LEG,Hüquq Şöbəsi,Aparıcı hüquqşünas,615,4,4
+179,LEG,Hüquq Şöbəsi,Aparıcı hüquqşünas,622,4,4
+180,LEG,Hüquq Şöbəsi,Aparıcı hüquqşünas,626,4,4
+181,LEG,Hüquq Şöbəsi,Aparıcı hüquqşünas,631,3,4
+182,LEG,Hüquq Şöbəsi,Aparıcı hüquqşünas,636,3,4
+183,LEG,Hüquq Şöbəsi,Aparıcı hüquqşünas,640,4,4
+184,LEG,Hüquq Şöbəsi,Aparıcı hüquqşünas,660,4,4
+185,LEG,Hüquq Şöbəsi,Aparıcı hüquqşünas,671,5,4
+186,LEG,Hüquq Şöbəsi,Hüquqşünas,615,3,3
+187,LEG,Hüquq Şöbəsi,Hüquqşünas,625,3,3
+188,LEG,Hüquq Şöbəsi,Hüquqşünas,630,3,3
+189,LEG,Hüquq Şöbəsi,Hüquqşünas,637,3,3
+190,LEG,Hüquq Şöbəsi,Hüquqşünas,643,2,3
+191,LEG,Hüquq Şöbəsi,Hüquqşünas,665,3,3
+192,LEG,Hüquq Şöbəsi,Hüquqşünas,671,4,3
+193,SAL,Satış Departamenti,Satış direktoru,209,5,5
+194,SAL,Satış Departamenti,Satış direktoru,210,5,5
+195,SAL,Satış Departamenti,Satış direktoru,211,5,5
+196,SAL,Satış Departamenti,Satış direktoru,214,5,5
+197,SAL,Satış Departamenti,Satış direktoru,219,5,5
+198,SAL,Satış Departamenti,Satış direktoru,224,5,5
+199,SAL,Satış Departamenti,Satış direktoru,269,5,5
+200,SAL,Satış Departamenti,Satış direktoru,289,5,5
+201,SAL,Satış Departamenti,Satış üzrə mütəxəssis,209,3,3
+202,SAL,Satış Departamenti,Satış üzrə mütəxəssis,210,3,3
+203,SAL,Satış Departamenti,Satış üzrə mütəxəssis,211,3,3
+204,SAL,Satış Departamenti,Satış üzrə mütəxəssis,214,3,3
+205,SAL,Satış Departamenti,Satış üzrə mütəxəssis,219,3,3
+206,SAL,Satış Departamenti,Satış üzrə mütəxəssis,224,3,3
+207,SAL,Satış Departamenti,Satış üzrə mütəxəssis,269,3,3
+208,SAL,Satış Departamenti,Satış üzrə mütəxəssis,289,3,3
+209,SAL,Satış Departamenti,Satışa dəstək üzrə aparıcı mütəxəssis,209,3,3
+210,SAL,Satış Departamenti,Satışa dəstək üzrə aparıcı mütəxəssis,210,3,3
+211,SAL,Satış Departamenti,Satışa dəstək üzrə aparıcı mütəxəssis,211,3,3
+212,SAL,Satış Departamenti,Satışa dəstək üzrə aparıcı mütəxəssis,214,3,3
+213,SAL,Satış Departamenti,Satışa dəstək üzrə aparıcı mütəxəssis,219,3,3
+214,SAL,Satış Departamenti,Satışa dəstək üzrə aparıcı mütəxəssis,224,3,3
+215,SAL,Satış Departamenti,Satışa dəstək üzrə aparıcı mütəxəssis,269,3,3
+216,SAL,Satış Departamenti,Satışa dəstək üzrə aparıcı mütəxəssis,289,3,3
+217,SAL,Satış Departamenti,KAM üzrə satış meneceri,209,3,3
+218,SAL,Satış Departamenti,KAM üzrə satış meneceri,210,3,3
+219,SAL,Satış Departamenti,KAM üzrə satış meneceri,211,3,3
+220,SAL,Satış Departamenti,KAM üzrə satış meneceri,214,3,3
+221,SAL,Satış Departamenti,KAM üzrə satış meneceri,219,3,3
+222,SAL,Satış Departamenti,KAM üzrə satış meneceri,224,3,3
+223,SAL,Satış Departamenti,KAM üzrə satış meneceri,269,3,3
+224,SAL,Satış Departamenti,KAM üzrə satış meneceri,289,3,3
+225,SAL,Satış Departamenti,OT şöbəsinin rəhbəri,209,4,4
+226,SAL,Satış Departamenti,OT şöbəsinin rəhbəri,210,4,4
+227,SAL,Satış Departamenti,OT şöbəsinin rəhbəri,211,4,4
+228,SAL,Satış Departamenti,OT şöbəsinin rəhbəri,214,4,4
+229,SAL,Satış Departamenti,OT şöbəsinin rəhbəri,219,4,4
+230,SAL,Satış Departamenti,OT şöbəsinin rəhbəri,224,4,4
+231,SAL,Satış Departamenti,OT şöbəsinin rəhbəri,269,4,4
+232,SAL,Satış Departamenti,OT şöbəsinin rəhbəri,289,4,4
+233,SAL,Satış Departamenti,Satış meneceri,209,3,3
+234,SAL,Satış Departamenti,Satış meneceri,210,3,3
+235,SAL,Satış Departamenti,Satış meneceri,211,3,3
+236,SAL,Satış Departamenti,Satış meneceri,214,3,3
+237,SAL,Satış Departamenti,Satış meneceri,219,3,3
+238,SAL,Satış Departamenti,Satış meneceri,224,3,3
+239,SAL,Satış Departamenti,Satış meneceri,269,3,3
+240,SAL,Satış Departamenti,Satış meneceri,289,3,3
+241,SAL,Satış Departamenti,Supervayzer,209,3,3
+242,SAL,Satış Departamenti,Supervayzer,210,3,3
+243,SAL,Satış Departamenti,Supervayzer,211,3,3
+244,SAL,Satış Departamenti,Supervayzer,214,3,3
+245,SAL,Satış Departamenti,Supervayzer,219,3,3
+246,SAL,Satış Departamenti,Supervayzer,224,3,3
+247,SAL,Satış Departamenti,Supervayzer,269,3,3
+248,SAL,Satış Departamenti,Supervayzer,289,3,3
+249,SAL,Satış Departamenti,Regionlar üzrə satış şöbəsinin rəhbəri,209,4,4
+250,SAL,Satış Departamenti,Regionlar üzrə satış şöbəsinin rəhbəri,210,4,4
+251,SAL,Satış Departamenti,Regionlar üzrə satış şöbəsinin rəhbəri,211,4,4
+252,SAL,Satış Departamenti,Regionlar üzrə satış şöbəsinin rəhbəri,214,4,4
+253,SAL,Satış Departamenti,Regionlar üzrə satış şöbəsinin rəhbəri,219,4,4
+254,SAL,Satış Departamenti,Regionlar üzrə satış şöbəsinin rəhbəri,224,4,4
+255,SAL,Satış Departamenti,Regionlar üzrə satış şöbəsinin rəhbəri,269,4,4
+256,SAL,Satış Departamenti,Regionlar üzrə satış şöbəsinin rəhbəri,289,4,4
+257,SAL,Satış Departamenti,Satış meneceri (Ənənəvi/Korporativ),209,3,3
+258,SAL,Satış Departamenti,Satış meneceri (Ənənəvi/Korporativ),210,3,3
+259,SAL,Satış Departamenti,Satış meneceri (Ənənəvi/Korporativ),211,3,3
+260,SAL,Satış Departamenti,Satış meneceri (Ənənəvi/Korporativ),214,3,3
+261,SAL,Satış Departamenti,Satış meneceri (Ənənəvi/Korporativ),219,3,3
+262,SAL,Satış Departamenti,Satış meneceri (Ənənəvi/Korporativ),224,3,3
+263,SAL,Satış Departamenti,Satış meneceri (Ənənəvi/Korporativ),269,3,3
+264,SAL,Satış Departamenti,Satış meneceri (Ənənəvi/Korporativ),289,3,3
+265,SAL,Satış Departamenti,Supervayzer (Ənənəvi/Korporativ),209,3,3
+266,SAL,Satış Departamenti,Supervayzer (Ənənəvi/Korporativ),210,3,3
+267,SAL,Satış Departamenti,Supervayzer (Ənənəvi/Korporativ),211,3,3
+268,SAL,Satış Departamenti,Supervayzer (Ənənəvi/Korporativ),214,3,3
+269,SAL,Satış Departamenti,Supervayzer (Ənənəvi/Korporativ),219,3,3
+270,SAL,Satış Departamenti,Supervayzer (Ənənəvi/Korporativ),224,3,3
+271,SAL,Satış Departamenti,Supervayzer (Ənənəvi/Korporativ),269,3,3
+272,SAL,Satış Departamenti,Supervayzer (Ənənəvi/Korporativ),289,3,3
+273,SAL,Satış Departamenti,Ənənəvi və Korporativ satış üzrə şöbə rəhbəri,209,4,4
+274,SAL,Satış Departamenti,Ənənəvi və Korporativ satış üzrə şöbə rəhbəri,210,4,4
+275,SAL,Satış Departamenti,Ənənəvi və Korporativ satış üzrə şöbə rəhbəri,211,4,4
+276,SAL,Satış Departamenti,Ənənəvi və Korporativ satış üzrə şöbə rəhbəri,214,4,4
+277,SAL,Satış Departamenti,Ənənəvi və Korporativ satış üzrə şöbə rəhbəri,219,4,4
+278,SAL,Satış Departamenti,Ənənəvi və Korporativ satış üzrə şöbə rəhbəri,224,4,4
+279,SAL,Satış Departamenti,Ənənəvi və Korporativ satış üzrə şöbə rəhbəri,269,4,4
+280,SAL,Satış Departamenti,Ənənəvi və Korporativ satış üzrə şöbə rəhbəri,289,4,4
+281,HSE,SƏTƏM Şöbəsi,SƏTƏM şöbəsinin rəhbəri,740,5,5
+282,HSE,SƏTƏM Şöbəsi,SƏTƏM şöbəsinin rəhbəri,741,5,5
+283,HSE,SƏTƏM Şöbəsi,SƏTƏM şöbəsinin rəhbəri,742,5,5
+284,HSE,SƏTƏM Şöbəsi,SƏTƏM şöbəsinin rəhbəri,743,5,5
+285,HSE,SƏTƏM Şöbəsi,SƏTƏM şöbəsinin rəhbəri,764,5,5
+286,HSE,SƏTƏM Şöbəsi,SƏTƏM şöbəsinin rəhbəri,776,5,5
+287,HSE,SƏTƏM Şöbəsi,SƏTƏM şöbəsinin rəhbəri,780,5,5
+288,HSE,SƏTƏM Şöbəsi,SƏTƏM şöbəsinin rəhbəri,792,5,5
+289,HSE,SƏTƏM Şöbəsi,SƏTƏM üzrə mütəxəssis,750,3,3
+290,HSE,SƏTƏM Şöbəsi,SƏTƏM üzrə mütəxəssis,752,3,3
+291,HSE,SƏTƏM Şöbəsi,SƏTƏM üzrə mütəxəssis,767,3,3
+292,HSE,SƏTƏM Şöbəsi,SƏTƏM üzrə mütəxəssis,773,3,3
+293,HSE,SƏTƏM Şöbəsi,SƏTƏM üzrə mütəxəssis,784,3,3
+294,HSE,SƏTƏM Şöbəsi,SƏTƏM üzrə mütəxəssis,793,3,3
+295,HSE,SƏTƏM Şöbəsi,SƏTƏM üzrə mütəxəssis,744,2,2
+296,HSE,SƏTƏM Şöbəsi,SƏTƏM üzrə mütəxəssis,777,2,2
+297,HSE,SƏTƏM Şöbəsi,SƏTƏM üzrə mütəxəssis,775,2,2
+298,HSE,SƏTƏM Şöbəsi,SƏTƏM üzrə mütəxəssis,790,2,2
+299,HSE,SƏTƏM Şöbəsi,SƏTƏM üzrə mütəxəssis,795,2,2
+300,HSE,SƏTƏM Şöbəsi,Feldşer,747,3,3
+301,HSE,SƏTƏM Şöbəsi,Feldşer,752,3,3
+302,HSE,SƏTƏM Şöbəsi,Feldşer,758,3,3
+303,HSE,SƏTƏM Şöbəsi,Feldşer,787,3,3
+304,HSE,SƏTƏM Şöbəsi,Feldşer,791,3,3
+305,HSE,SƏTƏM Şöbəsi,Həkim,745,4,4
+306,HSE,SƏTƏM Şöbəsi,Həkim,746,4,4
+307,HSE,SƏTƏM Şöbəsi,Həkim,756,4,4
+308,HSE,SƏTƏM Şöbəsi,Həkim,754,4,4
+309,HSE,SƏTƏM Şöbəsi,Həkim,785,4,4
+310,HSE,SƏTƏM Şöbəsi,Həkim,781,4,4
+311,LOG,Logistika Departamenti,Logistika əməliyyatları üzrə analitik,396,5,5
+312,LOG,Logistika Departamenti,Logistika əməliyyatları üzrə analitik,391,5,5
+313,LOG,Logistika Departamenti,Logistika əməliyyatları üzrə analitik,380,5,5
+314,LOG,Logistika Departamenti,Logistika əməliyyatları üzrə analitik,373,5,5
+315,LOG,Logistika Departamenti,Logistika əməliyyatları üzrə analitik,406,4,5
+316,LOG,Logistika Departamenti,Əməliyyatlar direktorunun köməkçisi,411,5,5
+317,LOG,Logistika Departamenti,Əməliyyatlar direktorunun köməkçisi,407,5,5
+318,LOG,Logistika Departamenti,Əməliyyatlar direktorunun köməkçisi,419,5,5
+319,LOG,Logistika Departamenti,Əməliyyatlar direktorunun köməkçisi,395,4,5
+320,LOG,Logistika Departamenti,Anbar idarəetməsi üzrə administrator,375,5,5
+321,LOG,Logistika Departamenti,Anbar idarəetməsi üzrə administrator,394,5,5
+322,LOG,Logistika Departamenti,Anbar idarəetməsi üzrə administrator,380,5,5
+323,LOG,Logistika Departamenti,Anbar idarəetməsi üzrə administrator,377,4,4
+324,LOG,Logistika Departamenti,Anbar üzrə gecə növbə rəisi,399,5,5
+325,LOG,Logistika Departamenti,Anbar üzrə gecə növbə rəisi,377,4,5
+326,LOG,Logistika Departamenti,Anbar üzrə gecə növbə rəisi,416,5,5
+327,LOG,Logistika Departamenti,Anbar üzrə gecə növbə rəisi,408,5,5
+328,LOG,Logistika Departamenti,Anbar üzrə gecə növbə rəisi,420,4,4
+329,LOG,Logistika Departamenti,Anbar üzrə gündüz növbə rəisi,375,4,4
+330,LOG,Logistika Departamenti,Anbar üzrə gündüz növbə rəisi,414,4,4
+331,LOG,Logistika Departamenti,Anbar üzrə gündüz növbə rəisi,408,4,4
+332,LOG,Logistika Departamenti,Anbar üzrə gündüz növbə rəisi,378,4,4
+333,LOG,Logistika Departamenti,Anbar üzrə gündüz növbə rəisi,410,4,4
+334,LOG,Logistika Departamenti,Anbar şöbəsinin rəhbəri,374,4,4
+335,LOG,Logistika Departamenti,Anbar şöbəsinin rəhbəri,390,3,3
+336,LOG,Logistika Departamenti,Anbar şöbəsinin rəhbəri,417,3,3
+337,LOG,Logistika Departamenti,Anbar şöbəsinin rəhbəri,401,3,3
+338,LOG,Logistika Departamenti,Anbar şöbəsinin rəhbəri,402,3,3
+339,LOG,Logistika Departamenti,Anbar şöbəsinin rəhbəri,418,3,3
+340,LOG,Logistika Departamenti,Regionlar üzrə logistika şöbəsinin rəhbəri,367,3,3
+341,LOG,Logistika Departamenti,Regionlar üzrə logistika şöbəsinin rəhbəri,372,3,3
+342,LOG,Logistika Departamenti,Regionlar üzrə logistika şöbəsinin rəhbəri,392,3,3
+343,LOG,Logistika Departamenti,Regionlar üzrə logistika şöbəsinin rəhbəri,383,3,3
+344,LOG,Logistika Departamenti,Regionlar üzrə logistika şöbəsinin rəhbəri,414,3,3
+345,LOG,Logistika Departamenti,Regionlar üzrə logistika şöbəsinin rəhbəri,413,3,3
+346,LOG,Logistika Departamenti,Regionlar üzrə logistika şöbəsinin rəhbəri,418,3,3
+347,LOG,Logistika Departamenti,Nəqliyyat vasitələrinin təşkili üzrə mütəxəssis,370,3,3
+348,LOG,Logistika Departamenti,Nəqliyyat vasitələrinin təşkili üzrə mütəxəssis,372,4,4
+349,LOG,Logistika Departamenti,Nəqliyyat vasitələrinin təşkili üzrə mütəxəssis,410,4,4
+350,LOG,Logistika Departamenti,Nəqliyyat vasitələrinin təşkili üzrə mütəxəssis,398,4,4
+351,LOG,Logistika Departamenti,Nəqliyyat və çatdırılma üzrə mütəxəssis,383,4,4
+352,LOG,Logistika Departamenti,Nəqliyyat və çatdırılma üzrə mütəxəssis,373,4,4
+353,LOG,Logistika Departamenti,Nəqliyyat və çatdırılma üzrə mütəxəssis,384,4,4
+354,LOG,Logistika Departamenti,Nəqliyyat və çatdırılma üzrə mütəxəssis,420,4,4
+355,LOG,Logistika Departamenti,Nəqliyyat və çatdırılma şöbəsinin rəhbəri,371,4,4
+356,LOG,Logistika Departamenti,Nəqliyyat və çatdırılma şöbəsinin rəhbəri,392,,
+357,LOG,Logistika Departamenti,Nəqliyyat və çatdırılma şöbəsinin rəhbəri,414,,
+358,LOG,Logistika Departamenti,Nəqliyyat və çatdırılma şöbəsinin rəhbəri,400,,
+359,LOG,Logistika Departamenti,Nəqliyyat və çatdırılma şöbəsinin rəhbəri,405,,
+360,LOG,Logistika Departamenti,Nəqliyyat və çatdırılma şöbəsinin rəhbəri,418,,
+361,RSK,Risklərin İdarəedilməsi Departamenti,Risklərin İdarəedilməsi Departamentinin direktoru,542,5,5
+362,RSK,Risklərin İdarəedilməsi Departamenti,Risklərin İdarəedilməsi Departamentinin direktoru,546,5,5
+363,RSK,Risklərin İdarəedilməsi Departamenti,Risklərin İdarəedilməsi Departamentinin direktoru,550,5,5
+364,RSK,Risklərin İdarəedilməsi Departamenti,Risklərin İdarəedilməsi Departamentinin direktoru,554,5,5
+365,RSK,Risklərin İdarəedilməsi Departamenti,Risklərin İdarəedilməsi Departamentinin direktoru,559,5,5
+366,RSK,Risklərin İdarəedilməsi Departamenti,Risklərin İdarəedilməsi Departamentinin direktoru,598,5,5
+367,RSK,Risklərin İdarəedilməsi Departamenti,Biznes risklərinin idarəedilməsi şöbəsinin rəhbəri,542,4,4
+368,RSK,Risklərin İdarəedilməsi Departamenti,Biznes risklərinin idarəedilməsi şöbəsinin rəhbəri,546,4,4
+369,RSK,Risklərin İdarəedilməsi Departamenti,Biznes risklərinin idarəedilməsi şöbəsinin rəhbəri,550,4,4
+370,RSK,Risklərin İdarəedilməsi Departamenti,Biznes risklərinin idarəedilməsi şöbəsinin rəhbəri,554,4,4
+371,RSK,Risklərin İdarəedilməsi Departamenti,Biznes risklərinin idarəedilməsi şöbəsinin rəhbəri,559,4,4
+372,RSK,Risklərin İdarəedilməsi Departamenti,Biznes risklərinin idarəedilməsi şöbəsinin rəhbəri,598,4,4
+373,RSK,Risklərin İdarəedilməsi Departamenti,Biznes risklərinin idarəedilməsi üzrə aparıcı mütəxəssis,542,3,3
+374,RSK,Risklərin İdarəedilməsi Departamenti,Biznes risklərinin idarəedilməsi üzrə aparıcı mütəxəssis,546,3,3
+375,RSK,Risklərin İdarəedilməsi Departamenti,Biznes risklərinin idarəedilməsi üzrə aparıcı mütəxəssis,550,3,3
+376,RSK,Risklərin İdarəedilməsi Departamenti,Biznes risklərinin idarəedilməsi üzrə aparıcı mütəxəssis,554,3,3
+377,RSK,Risklərin İdarəedilməsi Departamenti,Biznes risklərinin idarəedilməsi üzrə aparıcı mütəxəssis,559,3,3
+378,RSK,Risklərin İdarəedilməsi Departamenti,Biznes risklərinin idarəedilməsi üzrə aparıcı mütəxəssis,598,3,3
+379,RSK,Risklərin İdarəedilməsi Departamenti,Biznes risklərinin idarəedilməsi üzrə kiçik mütəxəssis,542,3,3
+380,RSK,Risklərin İdarəedilməsi Departamenti,Biznes risklərinin idarəedilməsi üzrə kiçik mütəxəssis,546,3,3
+381,RSK,Risklərin İdarəedilməsi Departamenti,Biznes risklərinin idarəedilməsi üzrə kiçik mütəxəssis,550,3,3
+382,RSK,Risklərin İdarəedilməsi Departamenti,Biznes risklərinin idarəedilməsi üzrə kiçik mütəxəssis,554,3,3
+383,RSK,Risklərin İdarəedilməsi Departamenti,Biznes risklərinin idarəedilməsi üzrə kiçik mütəxəssis,559,3,3
+384,RSK,Risklərin İdarəedilməsi Departamenti,Biznes risklərinin idarəedilməsi üzrə kiçik mütəxəssis,598,3,3
+385,RSK,Risklərin İdarəedilməsi Departamenti,Daxili nəzarət və Komplayens üzrə kiçik mütəxəssis,542,3,3
+386,RSK,Risklərin İdarəedilməsi Departamenti,Daxili nəzarət və Komplayens üzrə kiçik mütəxəssis,546,3,3
+387,RSK,Risklərin İdarəedilməsi Departamenti,Daxili nəzarət və Komplayens üzrə kiçik mütəxəssis,550,3,3
+388,RSK,Risklərin İdarəedilməsi Departamenti,Daxili nəzarət və Komplayens üzrə kiçik mütəxəssis,554,3,3
+389,RSK,Risklərin İdarəedilməsi Departamenti,Daxili nəzarət və Komplayens üzrə kiçik mütəxəssis,559,3,3
+390,RSK,Risklərin İdarəedilməsi Departamenti,Daxili nəzarət və Komplayens üzrə kiçik mütəxəssis,598,3,3
+391,RSK,Risklərin İdarəedilməsi Departamenti,Daxili nəzarət şöbəsinin müdiri,542,4,4
+392,RSK,Risklərin İdarəedilməsi Departamenti,Daxili nəzarət şöbəsinin müdiri,546,4,4
+393,RSK,Risklərin İdarəedilməsi Departamenti,Daxili nəzarət şöbəsinin müdiri,550,4,4
+394,RSK,Risklərin İdarəedilməsi Departamenti,Daxili nəzarət şöbəsinin müdiri,554,4,4
+395,RSK,Risklərin İdarəedilməsi Departamenti,Daxili nəzarət şöbəsinin müdiri,559,4,4
+396,RSK,Risklərin İdarəedilməsi Departamenti,Daxili nəzarət şöbəsinin müdiri,598,4,4
+397,RSK,Risklərin İdarəedilməsi Departamenti,Risklərin idarə edilməsi üzrə aparıcı mütəxəssis,542,3,3
+398,RSK,Risklərin İdarəedilməsi Departamenti,Risklərin idarə edilməsi üzrə aparıcı mütəxəssis,546,3,3
+399,RSK,Risklərin İdarəedilməsi Departamenti,Risklərin idarə edilməsi üzrə aparıcı mütəxəssis,550,3,3
+400,RSK,Risklərin İdarəedilməsi Departamenti,Risklərin idarə edilməsi üzrə aparıcı mütəxəssis,554,3,3
+401,RSK,Risklərin İdarəedilməsi Departamenti,Risklərin idarə edilməsi üzrə aparıcı mütəxəssis,559,3,3
+402,RSK,Risklərin İdarəedilməsi Departamenti,Risklərin idarə edilməsi üzrə aparıcı mütəxəssis,598,3,3
+403,RSK,Risklərin İdarəedilməsi Departamenti,Soyuducu inventarına nəzarət üzrə aparıcı mütəxəssis,542,3,3
+404,RSK,Risklərin İdarəedilməsi Departamenti,Soyuducu inventarına nəzarət üzrə aparıcı mütəxəssis,546,3,3
+405,RSK,Risklərin İdarəedilməsi Departamenti,Soyuducu inventarına nəzarət üzrə aparıcı mütəxəssis,550,3,3
+406,RSK,Risklərin İdarəedilməsi Departamenti,Soyuducu inventarına nəzarət üzrə aparıcı mütəxəssis,554,3,3
+407,RSK,Risklərin İdarəedilməsi Departamenti,Soyuducu inventarına nəzarət üzrə aparıcı mütəxəssis,559,3,3
+408,RSK,Risklərin İdarəedilməsi Departamenti,Soyuducu inventarına nəzarət üzrə aparıcı mütəxəssis,598,3,3
+409,RSK,Risklərin İdarəedilməsi Departamenti,Təftiş üzrə aparıcı mütəxəssis,542,3,3
+410,RSK,Risklərin İdarəedilməsi Departamenti,Təftiş üzrə aparıcı mütəxəssis,546,3,3
+411,RSK,Risklərin İdarəedilməsi Departamenti,Təftiş üzrə aparıcı mütəxəssis,550,3,3
+412,RSK,Risklərin İdarəedilməsi Departamenti,Təftiş üzrə aparıcı mütəxəssis,554,3,3
+413,RSK,Risklərin İdarəedilməsi Departamenti,Təftiş üzrə aparıcı mütəxəssis,559,3,3
+414,RSK,Risklərin İdarəedilməsi Departamenti,Təftiş üzrə aparıcı mütəxəssis,598,3,3
+415,RSK,Risklərin İdarəedilməsi Departamenti,Təftiş üzrə baş mütəxəssis,542,4,4
+416,RSK,Risklərin İdarəedilməsi Departamenti,Təftiş üzrə baş mütəxəssis,546,4,4
+417,RSK,Risklərin İdarəedilməsi Departamenti,Təftiş üzrə baş mütəxəssis,550,4,4
+418,RSK,Risklərin İdarəedilməsi Departamenti,Təftiş üzrə baş mütəxəssis,554,4,4
+419,RSK,Risklərin İdarəedilməsi Departamenti,Təftiş üzrə baş mütəxəssis,559,4,4
+420,RSK,Risklərin İdarəedilməsi Departamenti,Təftiş üzrə baş mütəxəssis,598,4,4
+421,RSK,Risklərin İdarəedilməsi Departamenti,Təftiş üzrə kiçik mütəxəssis,542,3,3
+422,RSK,Risklərin İdarəedilməsi Departamenti,Təftiş üzrə kiçik mütəxəssis,546,3,3
+423,RSK,Risklərin İdarəedilməsi Departamenti,Təftiş üzrə kiçik mütəxəssis,550,3,3
+424,RSK,Risklərin İdarəedilməsi Departamenti,Təftiş üzrə kiçik mütəxəssis,554,3,3
+425,RSK,Risklərin İdarəedilməsi Departamenti,Təftiş üzrə kiçik mütəxəssis,559,3,3
+426,RSK,Risklərin İdarəedilməsi Departamenti,Təftiş üzrə kiçik mütəxəssis,598,3,3
+427,RSK,Risklərin İdarəedilməsi Departamenti,Təftiş üzrə mütəxəssis,542,3,3
+428,RSK,Risklərin İdarəedilməsi Departamenti,Təftiş üzrə mütəxəssis,546,3,3
+429,RSK,Risklərin İdarəedilməsi Departamenti,Təftiş üzrə mütəxəssis,550,3,3
+430,RSK,Risklərin İdarəedilməsi Departamenti,Təftiş üzrə mütəxəssis,554,3,3
+431,RSK,Risklərin İdarəedilməsi Departamenti,Təftiş üzrə mütəxəssis,559,3,3
+432,RSK,Risklərin İdarəedilməsi Departamenti,Təftiş üzrə mütəxəssis,598,3,3
+433,RSK,Risklərin İdarəedilməsi Departamenti,İnventarlara nəzarət üzrə kiçik mütəxəssis,542,3,3
+434,RSK,Risklərin İdarəedilməsi Departamenti,İnventarlara nəzarət üzrə kiçik mütəxəssis,546,3,3
+435,RSK,Risklərin İdarəedilməsi Departamenti,İnventarlara nəzarət üzrə kiçik mütəxəssis,550,3,3
+436,RSK,Risklərin İdarəedilməsi Departamenti,İnventarlara nəzarət üzrə kiçik mütəxəssis,554,3,3
+437,RSK,Risklərin İdarəedilməsi Departamenti,İnventarlara nəzarət üzrə kiçik mütəxəssis,559,3,3
+438,RSK,Risklərin İdarəedilməsi Departamenti,İnventarlara nəzarət üzrə kiçik mütəxəssis,598,3,3
+439,MKT,Marketinq Departamenti,Ticari marketinq üzrə aparıcı mütəxəssis,322,5,5
+440,MKT,Marketinq Departamenti,Ticari marketinq üzrə aparıcı mütəxəssis,323,5,5
+441,MKT,Marketinq Departamenti,Ticari marketinq üzrə aparıcı mütəxəssis,327,5,5
+442,MKT,Marketinq Departamenti,Ticari marketinq üzrə aparıcı mütəxəssis,358,5,5
+443,MKT,Marketinq Departamenti,Ticari marketinq üzrə kiçik mütəxəssis,323,5,5
+444,MKT,Marketinq Departamenti,Ticari marketinq üzrə kiçik mütəxəssis,308,4,5
+445,MKT,Marketinq Departamenti,Ticari marketinq üzrə kiçik mütəxəssis,360,5,5
+446,MKT,Marketinq Departamenti,Ticari marketinq şöbəsinin rəhbəri,325,5,5
+447,MKT,Marketinq Departamenti,Ticari marketinq şöbəsinin rəhbəri,303,5,5
+448,MKT,Marketinq Departamenti,Ticari marketinq şöbəsinin rəhbəri,326,4,5
+449,MKT,Marketinq Departamenti,Ticari marketinq şöbəsinin rəhbəri,355,5,5
+450,MKT,Marketinq Departamenti,Ticari marketinq şöbəsinin rəhbəri,362,4,5
+451,MKT,Marketinq Departamenti,Çeklist üzrə aparıcı mütəxəssis,323,4,5
+452,MKT,Marketinq Departamenti,Çeklist üzrə aparıcı mütəxəssis,327,4,5
+453,MKT,Marketinq Departamenti,Çeklist üzrə aparıcı mütəxəssis,333,5,5
+454,MKT,Marketinq Departamenti,Çeklist üzrə mütəxəssis,323,4,4
+455,MKT,Marketinq Departamenti,Çeklist üzrə mütəxəssis,308,4,4
+456,MKT,Marketinq Departamenti,Aparıcı dizayner,315,3,4
+457,MKT,Marketinq Departamenti,Aparıcı dizayner,316,4,4
+458,MKT,Marketinq Departamenti,Aparıcı dizayner,358,4,4
+459,MKT,Marketinq Departamenti,FOBO üzrə brend menecer,296,4,4
+460,MKT,Marketinq Departamenti,FOBO üzrə brend menecer,309,4,4
+461,MKT,Marketinq Departamenti,FOBO üzrə brend menecer,356,4,4
+462,MKT,Marketinq Departamenti,Kateqoriya meneceri,299,4,4
+463,MKT,Marketinq Departamenti,Kateqoriya meneceri,319,4,4
+464,MKT,Marketinq Departamenti,Kateqoriya meneceri,357,4,4
+465,HRM,İnsan Resurslarının İdarəedilməsi Departamenti,İnsan resursları departamentinin direktoru,470,5,5
+466,HRM,İnsan Resurslarının İdarəedilməsi Departamenti,İnsan resursları departamentinin direktoru,472,5,5
+467,HRM,İnsan Resurslarının İdarəedilməsi Departamenti,İnsan resursları departamentinin direktoru,478,5,5
+468,HRM,İnsan Resurslarının İdarəedilməsi Departamenti,İnsan resursları departamentinin direktoru,491,5,5
+469,HRM,İnsan Resurslarının İdarəedilməsi Departamenti,İnsan resursları departamentinin direktoru,494,5,5
+470,HRM,İnsan Resurslarının İdarəedilməsi Departamenti,İnsan resursları departamentinin direktoru,501,5,5
+471,HRM,İnsan Resurslarının İdarəedilməsi Departamenti,İnsan resursları departamentinin direktoru,514,4,5
+472,HRM,İnsan Resurslarının İdarəedilməsi Departamenti,İnsan resursları departamentinin direktoru,522,5,5
+473,HRM,İnsan Resurslarının İdarəedilməsi Departamenti,İnsan resursları departamentinin direktoru,527,5,5
+474,HRM,İnsan Resurslarının İdarəedilməsi Departamenti,İnsan resursları departamentinin direktoru,538,5,5
+475,HRM,İnsan Resurslarının İdarəedilməsi Departamenti,İstedadların cəlb edilməsi və Təlim-İnkişaf şöbəsinin rəhbəri,474,4,5
+476,HRM,İnsan Resurslarının İdarəedilməsi Departamenti,İstedadların cəlb edilməsi və Təlim-İnkişaf şöbəsinin rəhbəri,479,4,5
+477,HRM,İnsan Resurslarının İdarəedilməsi Departamenti,İstedadların cəlb edilməsi və Təlim-İnkişaf şöbəsinin rəhbəri,488,4,4
+478,HRM,İnsan Resurslarının İdarəedilməsi Departamenti,İstedadların cəlb edilməsi və Təlim-İnkişaf şöbəsinin rəhbəri,484,4,4
+479,HRM,İnsan Resurslarının İdarəedilməsi Departamenti,İstedadların cəlb edilməsi və Təlim-İnkişaf şöbəsinin rəhbəri,496,4,4
+480,HRM,İnsan Resurslarının İdarəedilməsi Departamenti,İstedadların cəlb edilməsi və Təlim-İnkişaf şöbəsinin rəhbəri,536,4,4
+481,HRM,İnsan Resurslarının İdarəedilməsi Departamenti,İstedadların cəlb edilməsi və Təlim-İnkişaf şöbəsinin rəhbəri,529,4,4
+482,HRM,İnsan Resurslarının İdarəedilməsi Departamenti,İşə qəbul üzrə baş mütəxəssis,475,4,4
+483,HRM,İnsan Resurslarının İdarəedilməsi Departamenti,İşə qəbul üzrə baş mütəxəssis,477,4,4
+484,HRM,İnsan Resurslarının İdarəedilməsi Departamenti,İşə qəbul üzrə baş mütəxəssis,471,3,4
+485,HRM,İnsan Resurslarının İdarəedilməsi Departamenti,İşə qəbul üzrə baş mütəxəssis,516,3,4
+486,HRM,İnsan Resurslarının İdarəedilməsi Departamenti,İşə qəbul üzrə baş mütəxəssis,526,3,4
+487,HRM,İnsan Resurslarının İdarəedilməsi Departamenti,İşə qəbul üzrə aparıcı mütəxəssis,475,3,4
+488,HRM,İnsan Resurslarının İdarəedilməsi Departamenti,İşə qəbul üzrə aparıcı mütəxəssis,477,3,4
+489,HRM,İnsan Resurslarının İdarəedilməsi Departamenti,İşə qəbul üzrə aparıcı mütəxəssis,515,3,3
+490,HRM,İnsan Resurslarının İdarəedilməsi Departamenti,İşə qəbul üzrə aparıcı mütəxəssis,539,3,4
+491,HRM,İnsan Resurslarının İdarəedilməsi Departamenti,İşə qəbul üzrə mütəxəssis,475,3,3
+492,HRM,İnsan Resurslarının İdarəedilməsi Departamenti,İşə qəbul üzrə mütəxəssis,477,3,3
+493,HRM,İnsan Resurslarının İdarəedilməsi Departamenti,İşə qəbul üzrə mütəxəssis,515,2,3
+494,HRM,İnsan Resurslarının İdarəedilməsi Departamenti,İşə qəbul üzrə mütəxəssis,539,3,3
+495,HRM,İnsan Resurslarının İdarəedilməsi Departamenti,İşə qəbul üzrə kiçik mütəxəssis,475,2,2
+496,HRM,İnsan Resurslarının İdarəedilməsi Departamenti,İşə qəbul üzrə kiçik mütəxəssis,477,2,2
+497,HRM,İnsan Resurslarının İdarəedilməsi Departamenti,İnsan resursları üzrə baş mütəxəssis,510,4,4
+498,HRM,İnsan Resurslarının İdarəedilməsi Departamenti,İnsan resursları üzrə baş mütəxəssis,511,4,5
+499,HRM,İnsan Resurslarının İdarəedilməsi Departamenti,İnsan resursları üzrə baş mütəxəssis,512,4,4
+500,HRM,İnsan Resurslarının İdarəedilməsi Departamenti,İnsan resursları üzrə baş mütəxəssis,506,4,4
+501,HRM,İnsan Resurslarının İdarəedilməsi Departamenti,İnsan resursları üzrə baş mütəxəssis,507,5,4
+502,HRM,İnsan Resurslarının İdarəedilməsi Departamenti,İnsan resursları üzrə baş mütəxəssis,496,3,4
+503,HRM,İnsan Resurslarının İdarəedilməsi Departamenti,İnsan resursları üzrə baş mütəxəssis,475,3,4
+504,HRM,İnsan Resurslarının İdarəedilməsi Departamenti,İnsan resursları üzrə baş mütəxəssis,526,3,4
+505,HRM,İnsan Resurslarının İdarəedilməsi Departamenti,İnsan resursları üzrə baş mütəxəssis,539,3,4
+506,HRM,İnsan Resurslarının İdarəedilməsi Departamenti,İnsan resursları üzrə baş mütəxəssis,531,5,5
+507,HRM,İnsan Resurslarının İdarəedilməsi Departamenti,İnsan resursları üzrə aparıcı mütəxəssis,510,4,4
+508,HRM,İnsan Resurslarının İdarəedilməsi Departamenti,İnsan resursları üzrə aparıcı mütəxəssis,511,4,4
+509,HRM,İnsan Resurslarının İdarəedilməsi Departamenti,İnsan resursları üzrə aparıcı mütəxəssis,507,4,4
+510,HRM,İnsan Resurslarının İdarəedilməsi Departamenti,İnsan resursları üzrə aparıcı mütəxəssis,496,3,3
+511,HRM,İnsan Resurslarının İdarəedilməsi Departamenti,İnsan resursları üzrə aparıcı mütəxəssis,475,3,3
+512,HRM,İnsan Resurslarının İdarəedilməsi Departamenti,İnsan resursları üzrə aparıcı mütəxəssis,515,3,4
+513,HRM,İnsan Resurslarının İdarəedilməsi Departamenti,İnsan resursları üzrə aparıcı mütəxəssis,529,3,3
+514,HRM,İnsan Resurslarının İdarəedilməsi Departamenti,İnsan resursları üzrə aparıcı mütəxəssis,538,3,3
+515,HRM,İnsan Resurslarının İdarəedilməsi Departamenti,İnsan resursları üzrə mütəxəssis,510,4,3
+516,HRM,İnsan Resurslarının İdarəedilməsi Departamenti,İnsan resursları üzrə mütəxəssis,511,4,3
+517,HRM,İnsan Resurslarının İdarəedilməsi Departamenti,İnsan resursları üzrə mütəxəssis,475,3,3
+518,HRM,İnsan Resurslarının İdarəedilməsi Departamenti,İnsan resursları üzrə mütəxəssis,509,3,3
+519,HRM,İnsan Resurslarının İdarəedilməsi Departamenti,İnsan resursları üzrə mütəxəssis,512,3,3
+520,HRM,İnsan Resurslarının İdarəedilməsi Departamenti,İnsan resursları üzrə mütəxəssis,539,3,3
+521,HRM,İnsan Resurslarının İdarəedilməsi Departamenti,İnsan resursları üzrə mütəxəssis,531,4,4
+522,HRM,İnsan Resurslarının İdarəedilməsi Departamenti,İnsan resursları üzrə kiçik mütəxəssis,511,4,2
+523,HRM,İnsan Resurslarının İdarəedilməsi Departamenti,İnsan resursları üzrə kiçik mütəxəssis,512,3,2
+524,HRM,İnsan Resurslarının İdarəedilməsi Departamenti,İnsan resursları üzrə kiçik mütəxəssis,513,3,2
+525,HRM,İnsan Resurslarının İdarəedilməsi Departamenti,İnsan resursları üzrə kiçik mütəxəssis,475,2,2
+526,HRM,İnsan Resurslarının İdarəedilməsi Departamenti,İnsan resursları üzrə kiçik mütəxəssis,539,3,2
+527,HRM,İnsan Resurslarının İdarəedilməsi Departamenti,İnsan resursları üzrə kiçik mütəxəssis,535,2,2
+528,HRM,İnsan Resurslarının İdarəedilməsi Departamenti,İnsan Resursları üzrə Biznes Tərəfdaş,470,4,4
+529,HRM,İnsan Resurslarının İdarəedilməsi Departamenti,İnsan Resursları üzrə Biznes Tərəfdaş,495,4,4
+530,HRM,İnsan Resurslarının İdarəedilməsi Departamenti,İnsan Resursları üzrə Biznes Tərəfdaş,519,4,4
+531,HRM,İnsan Resurslarının İdarəedilməsi Departamenti,İnsan Resursları üzrə Biznes Tərəfdaş,522,4,4
+532,HRM,İnsan Resurslarının İdarəedilməsi Departamenti,İnsan Resursları üzrə Biznes Tərəfdaş,527,4,4
+533,HRM,İnsan Resurslarının İdarəedilməsi Departamenti,İnsan Resursları üzrə Biznes Tərəfdaş,529,4,4
+534,HRM,İnsan Resurslarının İdarəedilməsi Departamenti,İnsan Resursları üzrə Biznes Tərəfdaş,531,3,4
+535,HRM,İnsan Resurslarının İdarəedilməsi Departamenti,İnsan Resursları üzrə Biznes Tərəfdaş,538,4,4
+536,HRM,İnsan Resurslarının İdarəedilməsi Departamenti,İnsan resursları üzrə data analitik,514,4,4
+537,HRM,İnsan Resurslarının İdarəedilməsi Departamenti,İnsan resursları üzrə data analitik,515,4,4
+538,HRM,İnsan Resurslarının İdarəedilməsi Departamenti,İnsan resursları üzrə data analitik,516,5,5
+539,HRM,İnsan Resurslarının İdarəedilməsi Departamenti,İnsan resursları üzrə data analitik,517,4,4
+540,HRM,İnsan Resurslarının İdarəedilməsi Departamenti,İnsan resursları üzrə data analitik,483,3,3
+541,HRM,İnsan Resurslarının İdarəedilməsi Departamenti,İnsan resursları üzrə data analitik,527,3,3
+542,HRM,İnsan Resurslarının İdarəedilməsi Departamenti,İnsan resursları üzrə data analitik,539,3,3
+543,HRM,İnsan Resurslarının İdarəedilməsi Departamenti,Təlim və inkişaf üzrə kiçik mütəxəssis,479,2,2
+544,HRM,İnsan Resurslarının İdarəedilməsi Departamenti,Təlim və inkişaf üzrə kiçik mütəxəssis,487,3,2
+545,HRM,İnsan Resurslarının İdarəedilməsi Departamenti,Təlim və inkişaf üzrə kiçik mütəxəssis,489,3,2
+546,HRM,İnsan Resurslarının İdarəedilməsi Departamenti,Təlim və inkişaf üzrə kiçik mütəxəssis,488,2,2
+547,HRM,İnsan Resurslarının İdarəedilməsi Departamenti,Təlim və inkişaf üzrə kiçik mütəxəssis,535,2,2
+548,HRM,İnsan Resurslarının İdarəedilməsi Departamenti,Təlim və inkişaf üzrə kiçik mütəxəssis,539,3,2
+549,SCM,Tədarük Zəncirinin İdarəedilməsi Departamenti,Satış planlaması üzrə aparıcı mütəxəssis,422,3,4
+550,SCM,Tədarük Zəncirinin İdarəedilməsi Departamenti,Satış planlaması üzrə aparıcı mütəxəssis,425,3,4
+551,SCM,Tədarük Zəncirinin İdarəedilməsi Departamenti,Satış planlaması üzrə aparıcı mütəxəssis,431,3,4
+552,SCM,Tədarük Zəncirinin İdarəedilməsi Departamenti,Satış planlaması üzrə aparıcı mütəxəssis,441,3,4
+553,SCM,Tədarük Zəncirinin İdarəedilməsi Departamenti,Satış planlaması üzrə aparıcı mütəxəssis,447,3,4
+554,SCM,Tədarük Zəncirinin İdarəedilməsi Departamenti,Satış planlaması üzrə kiçik mütəxəssis,422,3,4
+555,SCM,Tədarük Zəncirinin İdarəedilməsi Departamenti,Satış planlaması üzrə kiçik mütəxəssis,425,3,4
+556,SCM,Tədarük Zəncirinin İdarəedilməsi Departamenti,Satış planlaması üzrə kiçik mütəxəssis,431,3,4
+557,SCM,Tədarük Zəncirinin İdarəedilməsi Departamenti,Satış planlaması üzrə kiçik mütəxəssis,441,3,4
+558,SCM,Tədarük Zəncirinin İdarəedilməsi Departamenti,Satış planlaması üzrə kiçik mütəxəssis,447,3,4
+559,SCM,Tədarük Zəncirinin İdarəedilməsi Departamenti,Tədarük zəncirinin planlanması üzrə aparıcı mütəxəssis,422,3,4
+560,SCM,Tədarük Zəncirinin İdarəedilməsi Departamenti,Tədarük zəncirinin planlanması üzrə aparıcı mütəxəssis,425,3,4
+561,SCM,Tədarük Zəncirinin İdarəedilməsi Departamenti,Tədarük zəncirinin planlanması üzrə aparıcı mütəxəssis,431,3,4
+562,SCM,Tədarük Zəncirinin İdarəedilməsi Departamenti,Tədarük zəncirinin planlanması üzrə aparıcı mütəxəssis,441,3,4
+563,SCM,Tədarük Zəncirinin İdarəedilməsi Departamenti,Tədarük zəncirinin planlanması üzrə aparıcı mütəxəssis,447,3,4
+564,SCM,Tədarük Zəncirinin İdarəedilməsi Departamenti,Tədarük zəncirinin planlanması şöbəsinin müdiri,422,5,5
+565,SCM,Tədarük Zəncirinin İdarəedilməsi Departamenti,Tədarük zəncirinin planlanması şöbəsinin müdiri,425,4,5
+566,SCM,Tədarük Zəncirinin İdarəedilməsi Departamenti,Tədarük zəncirinin planlanması şöbəsinin müdiri,431,4,5
+567,SCM,Tədarük Zəncirinin İdarəedilməsi Departamenti,Tədarük zəncirinin planlanması şöbəsinin müdiri,441,4,5
+568,SCM,Tədarük Zəncirinin İdarəedilməsi Departamenti,Tədarük zəncirinin planlanması şöbəsinin müdiri,447,4,5
+569,SCM,Tədarük Zəncirinin İdarəedilməsi Departamenti,Tədarük Zəncirinin İdarəedilməsi Departamentinin direktoru,422,5,5
+570,SCM,Tədarük Zəncirinin İdarəedilməsi Departamenti,Tədarük Zəncirinin İdarəedilməsi Departamentinin direktoru,425,5,5
+571,SCM,Tədarük Zəncirinin İdarəedilməsi Departamenti,Tədarük Zəncirinin İdarəedilməsi Departamentinin direktoru,431,5,5
+572,SCM,Tədarük Zəncirinin İdarəedilməsi Departamenti,Tədarük Zəncirinin İdarəedilməsi Departamentinin direktoru,441,5,5
+573,SCM,Tədarük Zəncirinin İdarəedilməsi Departamenti,Tədarük Zəncirinin İdarəedilməsi Departamentinin direktoru,447,5,5
+574,SCM,Tədarük Zəncirinin İdarəedilməsi Departamenti,İstehsalat və satışın planlaşdırılması üzrə menecer,422,4,4
+575,SCM,Tədarük Zəncirinin İdarəedilməsi Departamenti,İstehsalat və satışın planlaşdırılması üzrə menecer,425,4,4
+576,SCM,Tədarük Zəncirinin İdarəedilməsi Departamenti,İstehsalat və satışın planlaşdırılması üzrə menecer,431,4,4
+577,SCM,Tədarük Zəncirinin İdarəedilməsi Departamenti,İstehsalat və satışın planlaşdırılması üzrə menecer,441,4,4
+578,SCM,Tədarük Zəncirinin İdarəedilməsi Departamenti,İstehsalat və satışın planlaşdırılması üzrə menecer,447,4,4
+579,SCM,Tədarük Zəncirinin İdarəedilməsi Departamenti,Satınalma üzrə mütəxəssis,422,3,4
+580,SCM,Tədarük Zəncirinin İdarəedilməsi Departamenti,Satınalma üzrə mütəxəssis,425,3,4
+581,SCM,Tədarük Zəncirinin İdarəedilməsi Departamenti,Satınalma üzrə mütəxəssis,431,3,4
+582,SCM,Tədarük Zəncirinin İdarəedilməsi Departamenti,Satınalma üzrə mütəxəssis,441,3,4
+583,SCM,Tədarük Zəncirinin İdarəedilməsi Departamenti,Satınalma üzrə mütəxəssis,447,3,4
+584,SCM,Tədarük Zəncirinin İdarəedilməsi Departamenti,Gömrük işləri üzrə mütəxəssis,422,3,4
+585,SCM,Tədarük Zəncirinin İdarəedilməsi Departamenti,Gömrük işləri üzrə mütəxəssis,425,3,4
+586,SCM,Tədarük Zəncirinin İdarəedilməsi Departamenti,Gömrük işləri üzrə mütəxəssis,431,3,4
+587,SCM,Tədarük Zəncirinin İdarəedilməsi Departamenti,Gömrük işləri üzrə mütəxəssis,441,3,4
+588,SCM,Tədarük Zəncirinin İdarəedilməsi Departamenti,Gömrük işləri üzrə mütəxəssis,447,3,4
+589,SCM,Tədarük Zəncirinin İdarəedilməsi Departamenti,Nəqliyyat və gömrük əməliyyatları bölməsinin rəhbəri,422,3,4
+590,SCM,Tədarük Zəncirinin İdarəedilməsi Departamenti,Nəqliyyat və gömrük əməliyyatları bölməsinin rəhbəri,425,3,4
+591,SCM,Tədarük Zəncirinin İdarəedilməsi Departamenti,Nəqliyyat və gömrük əməliyyatları bölməsinin rəhbəri,431,3,4
+592,SCM,Tədarük Zəncirinin İdarəedilməsi Departamenti,Nəqliyyat və gömrük əməliyyatları bölməsinin rəhbəri,441,3,4
+593,SCM,Tədarük Zəncirinin İdarəedilməsi Departamenti,Nəqliyyat və gömrük əməliyyatları bölməsinin rəhbəri,447,3,4
+594,SCM,Tədarük Zəncirinin İdarəedilməsi Departamenti,Nəqliyyat və gömrük əməliyyatları üzrə mütəxəssis,422,3,4
+595,SCM,Tədarük Zəncirinin İdarəedilməsi Departamenti,Nəqliyyat və gömrük əməliyyatları üzrə mütəxəssis,425,3,4
+596,SCM,Tədarük Zəncirinin İdarəedilməsi Departamenti,Nəqliyyat və gömrük əməliyyatları üzrə mütəxəssis,431,3,4
+597,SCM,Tədarük Zəncirinin İdarəedilməsi Departamenti,Nəqliyyat və gömrük əməliyyatları üzrə mütəxəssis,441,3,4
+598,SCM,Tədarük Zəncirinin İdarəedilməsi Departamenti,Nəqliyyat və gömrük əməliyyatları üzrə mütəxəssis,447,3,4
+599,FIN,Maliyyə departamenti,Maliyyə direktoru,1,5,5
+600,FIN,Maliyyə departamenti,Maliyyə direktoru,2,5,5
+601,FIN,Maliyyə departamenti,Maliyyə direktoru,3,5,5
+602,FIN,Maliyyə departamenti,Maliyyə direktoru,4,5,5
+603,FIN,Maliyyə departamenti,Maliyyə direktoru,5,5,5
+604,FIN,Maliyyə departamenti,Maliyyə direktoru,6,5,5
+605,FIN,Maliyyə departamenti,Maliyyə direktoru,8,5,5
+606,FIN,Maliyyə departamenti,Maliyyə direktoru,31,5,5
+607,FIN,Maliyyə departamenti,Maliyyə direktoru,69,5,5
+608,FIN,Maliyyə departamenti,Hesabatlıq şöbəsinin rəhbəri,44,5,5
+609,FIN,Maliyyə departamenti,Hesabatlıq şöbəsinin rəhbəri,43,5,5
+610,FIN,Maliyyə departamenti,Hesabatlıq şöbəsinin rəhbəri,32,5,5
+611,FIN,Maliyyə departamenti,Hesabatlıq şöbəsinin rəhbəri,17,5,5
+612,FIN,Maliyyə departamenti,Hesabatlıq şöbəsinin rəhbəri,25,5,5
+613,FIN,Maliyyə departamenti,Baş mühasib,41,4,4
+614,FIN,Maliyyə departamenti,Baş mühasib,42,4,4
+615,FIN,Maliyyə departamenti,Baş mühasib,54,4,4
+616,FIN,Maliyyə departamenti,Baş mühasib,60,4,4
+617,FIN,Maliyyə departamenti,Baş mühasib,62,4,4
+618,FIN,Maliyyə departamenti,Baş mühasib,63,4,4
+619,FIN,Maliyyə departamenti,Aparıcı mühasib,41,4,4
+620,FIN,Maliyyə departamenti,Aparıcı mühasib,42,4,4
+621,FIN,Maliyyə departamenti,Aparıcı mühasib,54,4,4
+622,FIN,Maliyyə departamenti,Aparıcı mühasib,60,4,4
+623,FIN,Maliyyə departamenti,Aparıcı mühasib,62,4,4
+624,FIN,Maliyyə departamenti,Aparıcı mühasib,63,4,4
+625,FIN,Maliyyə departamenti,Vergi üzrə aparıcı mühasib,41,3,4
+626,FIN,Maliyyə departamenti,Vergi üzrə aparıcı mühasib,42,3,4
+627,FIN,Maliyyə departamenti,Vergi üzrə aparıcı mühasib,54,3,4
+628,FIN,Maliyyə departamenti,Vergi üzrə aparıcı mühasib,60,3,4
+629,FIN,Maliyyə departamenti,Vergi üzrə aparıcı mühasib,62,3,4
+630,FIN,Maliyyə departamenti,Vergi üzrə aparıcı mühasib,63,3,4
+631,FIN,Maliyyə departamenti,Mühasib,41,3,3
+632,FIN,Maliyyə departamenti,Mühasib,42,3,3
+633,FIN,Maliyyə departamenti,Mühasib,54,3,3
+634,FIN,Maliyyə departamenti,Mühasib,60,3,3
+635,FIN,Maliyyə departamenti,Mühasib,62,3,3
+636,FIN,Maliyyə departamenti,Mühasib,63,3,3
+637,FIN,Maliyyə departamenti,Kiçik mühasib,41,3,3
+638,FIN,Maliyyə departamenti,Kiçik mühasib,42,3,3
+639,FIN,Maliyyə departamenti,Kiçik mühasib,54,3,3
+640,FIN,Maliyyə departamenti,Kiçik mühasib,60,3,3
+641,FIN,Maliyyə departamenti,Kiçik mühasib,62,3,3
+642,FIN,Maliyyə departamenti,Kiçik mühasib,63,3,3
+643,FIN,Maliyyə departamenti,Xəzinədar,41,3,3
+644,FIN,Maliyyə departamenti,Xəzinədar,42,3,3
+645,FIN,Maliyyə departamenti,Xəzinədar,54,3,3
+646,FIN,Maliyyə departamenti,Xəzinədar,60,3,3
+647,FIN,Maliyyə departamenti,Xəzinədar,62,3,3
+648,FIN,Maliyyə departamenti,Xəzinədar,63,3,3
+649,FIN,Maliyyə departamenti,Baş xəzinadar,41,3,3
+650,FIN,Maliyyə departamenti,Baş xəzinadar,42,3,3
+651,FIN,Maliyyə departamenti,Baş xəzinadar,54,3,3
+652,FIN,Maliyyə departamenti,Baş xəzinadar,60,3,3
+653,FIN,Maliyyə departamenti,Baş xəzinadar,62,3,3
+654,FIN,Maliyyə departamenti,Baş xəzinadar,63,3,3
+655,FIN,Maliyyə departamenti,Vergi üzrə menecer,41,3,3
+656,FIN,Maliyyə departamenti,Vergi üzrə menecer,42,3,3
+657,FIN,Maliyyə departamenti,Vergi üzrə menecer,54,3,3
+658,FIN,Maliyyə departamenti,Vergi üzrə menecer,60,3,3
+659,FIN,Maliyyə departamenti,Vergi üzrə menecer,62,3,3
+660,FIN,Maliyyə departamenti,Vergi üzrə menecer,63,3,3
+661,FIN,Maliyyə departamenti,Xərclərə nəzarət üzrə baş mütəxəssis,41,3,3
+662,FIN,Maliyyə departamenti,Xərclərə nəzarət üzrə baş mütəxəssis,42,3,3
+663,FIN,Maliyyə departamenti,Xərclərə nəzarət üzrə baş mütəxəssis,54,3,3
+664,FIN,Maliyyə departamenti,Xərclərə nəzarət üzrə baş mütəxəssis,60,3,3
+665,FIN,Maliyyə departamenti,Xərclərə nəzarət üzrə baş mütəxəssis,62,3,3
+666,FIN,Maliyyə departamenti,Xərclərə nəzarət üzrə baş mütəxəssis,63,3,3
+667,FIN,Maliyyə departamenti,Büdcə və hesabatlıq üzrə aparıcı mütəxəssis,41,3,3
+668,FIN,Maliyyə departamenti,Büdcə və hesabatlıq üzrə aparıcı mütəxəssis,42,3,3
+669,FIN,Maliyyə departamenti,Büdcə və hesabatlıq üzrə aparıcı mütəxəssis,54,3,3
+670,FIN,Maliyyə departamenti,Büdcə və hesabatlıq üzrə aparıcı mütəxəssis,60,3,3
+671,FIN,Maliyyə departamenti,Büdcə və hesabatlıq üzrə aparıcı mütəxəssis,62,3,3
+672,FIN,Maliyyə departamenti,Büdcə və hesabatlıq üzrə aparıcı mütəxəssis,63,3,3
+673,FIN,Maliyyə departamenti,Büdcə və hesabatlıq üzrə menecer,41,3,3
+674,FIN,Maliyyə departamenti,Büdcə və hesabatlıq üzrə menecer,42,3,3
+675,FIN,Maliyyə departamenti,Büdcə və hesabatlıq üzrə menecer,54,3,3
+676,FIN,Maliyyə departamenti,Büdcə və hesabatlıq üzrə menecer,60,3,3
+677,FIN,Maliyyə departamenti,Büdcə və hesabatlıq üzrə menecer,62,3,3
+678,FIN,Maliyyə departamenti,Büdcə və hesabatlıq üzrə menecer,63,3,3
+679,FIN,Maliyyə departamenti,Büdcə və hesabatlıq üzrə mütəxəssis,41,3,3
+680,FIN,Maliyyə departamenti,Büdcə və hesabatlıq üzrə mütəxəssis,42,3,3
+681,FIN,Maliyyə departamenti,Büdcə və hesabatlıq üzrə mütəxəssis,54,3,3
+682,FIN,Maliyyə departamenti,Büdcə və hesabatlıq üzrə mütəxəssis,60,3,3
+683,FIN,Maliyyə departamenti,Büdcə və hesabatlıq üzrə mütəxəssis,62,3,3
+684,FIN,Maliyyə departamenti,Büdcə və hesabatlıq üzrə mütəxəssis,63,3,3

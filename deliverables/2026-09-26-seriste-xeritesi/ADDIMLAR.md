@@ -5,7 +5,27 @@ Aşağıdakı addımları özünüz, bu ardıcıllıqla edin.
 
 ---
 
-## Addım 1 — SQL (Supabase → SQL Editor)
+## Addım 1 — Məlumat (iki variantdan BİRİNİ seçin)
+
+### Variant B — CSV ilə (Table Editor)
+
+1. SQL Editor-da `sql/2026-09-26_competency_schema_for_csv.sql` işlədin — yalnız boş cədvəlləri, icazələri və şöbə→sahə
+   funksiyasını yaradır (funksiya və icazələri Table Editor yarada bilmir, ona görə bu qısa SQL mütləqdir).
+2. Table Editor → cədvəli açın → **Insert → Import data from CSV** → faylı seçin. **Bu sıra ilə** (cədvəllər bir-birinə bağlıdır):
+
+   | Sıra | CSV faylı | Cədvəl | Sətir |
+   |---|---|---|---|
+   | 1 | `csv/1_competency_areas.csv` | `competency_areas` | 13 |
+   | 2 | `csv/2_competency_catalog.csv` | `competency_catalog` | 830 |
+   | 3 | `csv/3_competency_role_map.csv` | `competency_role_map` | 684 |
+   | 4 | `csv/4_competency_area_rules.csv` | `competency_area_rules` | 50 |
+
+   - `id` sütunları CSV-də hazırdır — idxal ekranında onları **silməyin/dəyişməyin** (vəzifə xəritəsi kataloqa id ilə bağlanır).
+   - `3_competency_role_map.csv`-də 5 sətirdə kritiklik/səviyyə boşdur (PDP-də "Nəqliyyat və çatdırılma şöbəsinin rəhbəri"
+     üçün 0 yazılıb) — boş xana NULL kimi yüklənməlidir. Əgər idxal bu sətirlərə görə xəta versə, həmin 5 sətri CSV-dən silin.
+   - Nəticə Variant A ilə eynidir (lokal bazada hər iki yol yoxlanılıb, məlumat eyni çıxıb).
+
+### Variant A — tam SQL (SQL Editor)
 
 1. `sql/2026-09-26_competency_catalog.sql` faylını açın, **bütöv** məzmununu SQL Editor-a yapışdırın və **Run** edin.
    - Yalnız **yeni** cədvəllər yaradır: `competency_areas` (13), `competency_catalog` (830), `competency_role_map` (684),
@@ -13,11 +33,14 @@ Aşağıdakı addımları özünüz, bu ardıcıllıqla edin.
    - Mövcud `competency_library` cədvəlinə **toxunmur** (köhnə TNA sətirləri IDP-də tanınmağa davam etsin deyə).
    - Təkrar işlətmək təhlükəsizdir (yeni cədvəlləri silib yenidən yaradır).
    - Sonunda yoxlama: `select count(*) from competency_catalog;` → **830** olmalıdır.
-2. (İstəyə bağlı, yalnız oxuma) `sql/2026-09-26_competency_coverage_check_readonly.sql` — hər real departament/şöbə
-   üçün hansı sahənin seçildiyini göstərir. `YOXLA` yazılan sətirlər: sahə tapılmayıb → TNA-da "bütün sahələr" göstərilir.
-   Belə şöbə varsa, mənə adını yazın, qayda əlavə edim (və ya `competency_area_rules`-a özünüz əlavə edin).
 
-> Vacib: SQL-i kodu yükləmədən **əvvəl** işlədin. Əks halda yeni səhifə "Səriştə kataloqu yüklənmədi" yazacaq.
+### Hər iki variantdan sonra (istəyə bağlı, yalnız oxuma)
+
+ `sql/2026-09-26_competency_coverage_check_readonly.sql` — hər real departament/şöbə
+üçün hansı sahənin seçildiyini göstərir. `YOXLA` yazılan sətirlər: sahə tapılmayıb → TNA-da "bütün sahələr" göstərilir.
+Belə şöbə varsa, mənə adını yazın, qayda əlavə edim (və ya `competency_area_rules`-a özünüz əlavə edin).
+
+> Vacib: məlumatı (Variant A və ya B) kodu yükləmədən **əvvəl** əlavə edin. Əks halda yeni səhifə "Səriştə kataloqu yüklənmədi" yazacaq.
 
 ## Addım 2 — Kod faylları (`telim-tracker-v2` reposu)
 

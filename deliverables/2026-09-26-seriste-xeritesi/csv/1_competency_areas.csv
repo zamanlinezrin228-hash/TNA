@@ -1,0 +1,14 @@
+key,label,label_en,sort_order
+FIN,Maliyyə,Finance,1
+ERP,ERP / İT və Rəqəmsal,ERP / IT & Digital,2
+BA,Biznes Analitikası,Business Analytics,3
+SAL,Satış,Sales,4
+MKT,Marketinq,Marketing,5
+LOG,Logistika,Logistics,6
+SCM,Tədarük Zəncirinin İdarəedilməsi,Supply Chain Management,7
+HRM,İnsan Resursları,Human Resources,8
+RSK,Risklərin İdarəedilməsi,Risk Management,9
+LEG,Hüquq,Legal,10
+ADM,İnzibati İşlər,Administration,11
+HSE,SƏTƏM,"Health, Safety & Environment",12
+SEC,Daxili Təhlükəsizlik,Internal Security,13
